@@ -1,0 +1,6 @@
+home/app2/App2Application.class
+home/app2/servicies/UserService.class
+home/app2/JMSWrapper.class
+home/app2/controllers/AppController.class
+home/app2/entities/Role.class
+home/app2/entities/User.class
